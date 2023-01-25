@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/adrianbturek/react-clima/static/css/main.9da16ef2.css",
+    "main.js": "/adrianbturek/react-clima/static/js/main.1a740fe3.js",
+    "index.html": "/adrianbturek/react-clima/index.html",
+    "main.9da16ef2.css.map": "/adrianbturek/react-clima/static/css/main.9da16ef2.css.map",
+    "main.1a740fe3.js.map": "/adrianbturek/react-clima/static/js/main.1a740fe3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9da16ef2.css",
+    "static/js/main.1a740fe3.js"
+  ]
+}
